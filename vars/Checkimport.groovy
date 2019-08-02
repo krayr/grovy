@@ -1,4 +1,4 @@
-import com.arg.Import.*
+import com.arg.Import
 
 class Checkimport{
 	def manager
@@ -9,7 +9,7 @@ class Checkimport{
 	
 	def checkname(){
 		def name = "Rajesh"
-		def myname = new Import(name)
+		Import myname = new Import(name)
 		def gotname = myname.getname()
 		if (gotname != NULL && workspace != NULL)
 		{
