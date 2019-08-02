@@ -1,5 +1,5 @@
-import src.com.arg.*
-
+//import src.com.arg.*
+import vars.Import
 class Checkimport{
 	def manager
 	Checkimport(def m,def w){
@@ -9,7 +9,7 @@ class Checkimport{
 	
 	def checkname(){
 		def name = "Rajesh"
-		Import myname = new Import(name)
+		def myname = new Import(name)
 		def gotname = myname.getname()
 		if (gotname != NULL && workspace != NULL)
 		{
