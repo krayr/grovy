@@ -1,5 +1,7 @@
 package src.com.arg;
 
+import com.arg.*
+
 class Checkimport{
 	def manager
 	def workspace
