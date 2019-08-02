@@ -1,4 +1,4 @@
-import com.arg.Import
+import com.arg.*
 
 class Checkimport{
 	def manager
