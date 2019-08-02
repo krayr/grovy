@@ -7,10 +7,10 @@ class Checkimport{
 	this.workspace = w
 	}
 	
-	checkname(){
-	def name = "Rajesh"
-	def myname = new Import(name)
-	def gotname = myname.getname()
+	def checkname(){
+		def name = "Rajesh"
+		def myname = new Import(name)
+		def gotname = myname.getname()
 		if (gotname != NULL && workspace != NULL)
 		{
 			println("Name = "+gotname)
