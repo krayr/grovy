@@ -1,5 +1,5 @@
 //import src.com.arg.*
-import vars.Import
+//import vars.Import
 class Checkimport{
 	def manager
 	Checkimport(def m,def w){
