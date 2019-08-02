@@ -12,7 +12,7 @@ class Checkimport{
 		def name = "Rajesh"
 		def myname = new Import(name)
 		def gotname = myname.getname()
-		if (gotname != null && workspace != null)
+		if (gotname == null && workspace == null)
 		{
 			println("Name = "+gotname)
 			println("Workspace = "+workspace)
