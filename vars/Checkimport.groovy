@@ -2,6 +2,7 @@
 //import vars.Import
 class Checkimport{
 	def manager
+	def workspace
 	Checkimport(def m,def w){
 	this.manager = m
 	this.workspace = w
