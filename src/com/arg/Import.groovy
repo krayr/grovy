@@ -1,5 +1,4 @@
-import java.io.*
-import java.util.*
+package src.com.arg;
 
 class Import{
 
