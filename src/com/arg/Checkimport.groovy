@@ -1,6 +1,6 @@
 package src.com.arg;
 
-import com.arg.*
+import src.com.arg.*
 
 class Checkimport{
 	def manager
