@@ -1,4 +1,4 @@
-package src.com.arg;
+package com.arg;
 
 import com.arg.*
 
