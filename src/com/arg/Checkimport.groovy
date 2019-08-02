@@ -15,7 +15,7 @@ class Checkimport{
 		if (gotname != null && workspace != null)
 		{
 			println("Name = "+gotname)
-			println("Workspace = "+workspace}
+			println("Workspace = "+workspace)
 			manager.buildSuccess()
 		}
 		else {
