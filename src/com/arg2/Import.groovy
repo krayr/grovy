@@ -1,4 +1,4 @@
-package com.arg;
+package com.arg2;
 
 class Import{
 
