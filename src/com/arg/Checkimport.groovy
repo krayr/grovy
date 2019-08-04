@@ -1,5 +1,6 @@
 package com.arg;
 
+import com.arg2.*
 
 
 class Checkimport{
